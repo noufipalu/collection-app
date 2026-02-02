@@ -1,7 +1,7 @@
 import 'package:collection_app/helper/responsive_helper.dart';
 import 'package:collection_app/models/collectionModel.dart';
 import 'package:collection_app/models/productModel.dart';
-import 'package:collection_app/pages/collection_card.dart';
+import 'package:collection_app/widgets/collection_card.dart';
 import 'package:flutter/material.dart';
 
 class ProductCollectionsScreen extends StatefulWidget {
