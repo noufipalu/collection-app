@@ -1,4 +1,4 @@
-Product Collections Flutter App
+𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐀𝐩𝐩
 A responsive Flutter application featuring an accordion-style product collections interface with smooth animations and intelligent scroll tracking.
 
 Overview:-
